@@ -3,5 +3,12 @@
 
     <string name="hello">Hello World, FindActivity!</string>
     <string name="app_name">Find</string>
+    <string name="menu_title">間違い探し</string>
+    <string name="menu_start">ｓタｒｔ</string>
+    <string name="menu_option">オプチォン</string>
+    <string name="menu_gaybar">ーーーーーーーーーー</string>
+    <string name="menu_faketitle">闇達ﾊ深ｲ</string>
+    <string name="menu_staff">ｓタｆｆ</string>
+    <string name="menu_score">スコーレ</string>
 
 </resources>
